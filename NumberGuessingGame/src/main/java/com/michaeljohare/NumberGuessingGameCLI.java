@@ -26,6 +26,7 @@ public class NumberGuessingGameCLI {
             }
             isPlaying = getUserInput.willContinuePlaying();
         }
+        System.out.println("Thank you for playing Number Guessing Game!");
     }
 
 
